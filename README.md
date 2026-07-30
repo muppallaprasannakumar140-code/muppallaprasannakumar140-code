@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there 👋 I'm Prasanna kumar
+
+⚡**MY JOURNEY:**i really found my self in computer science really took off after completing my 12th grade. Instead of waiting for college to start , I dove straight into Harvard's CS50 to challenge myself which i found in youtube for free. I am heading to SRMAP this august , eager to transition from building foundational c programs to taking real world tech problems .
+
+
+🎓🎓**Education:** B.Tech computer science and engineering @ SRM university-AP(class of 2030)
+**language and Tools;** C, Git, VS Code (Transitioning to C++ soon!)
+
+Short Term Goal:** current focus on advanced data Structures and Discrete Mathematics
 
 <!--
 **muppallaprasannakumar140-code/muppallaprasannakumar140-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
