@@ -6,7 +6,7 @@
 🎓🎓**Education:** B.Tech computer science and engineering @ SRM university-AP(class of 2030)
 **language and Tools;** C, Git, VS Code (Transitioning to C++ soon!)
 
-Short Term Goal:** current focus on advanced data Structures and Discrete Mathematics
+**Short Term Goal:** current focus on advanced data Structures and Discrete Mathematics
 
 <!--
 **muppallaprasannakumar140-code/muppallaprasannakumar140-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
