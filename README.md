@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Prasanna kumar
 
-⚡**MY JOURNEY:**i really found my self in computer science really took off after completing my 12th grade. Instead of waiting for college to start , I dove straight into Harvard's CS50 to challenge myself which i found in youtube for free. I am heading to SRMAP this august , eager to transition from building foundational c programs to taking real world tech problems .
+⚡**MY JOURNEY:**I really found my self in computer science really took off after completing my 12th grade. Instead of waiting for college to start , I dove straight into Harvard's CS50 to challenge myself which i found in youtube for free. I am heading to SRMAP this august , eager to transition from building foundational c programs to taking real world tech problems .
 
 
 🎓🎓**Education:** B.Tech computer science and engineering @ SRM university-AP(class of 2030)
